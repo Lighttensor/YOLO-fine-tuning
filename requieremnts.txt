@@ -1,0 +1,9 @@
+requests
+os
+re
+shutil
+torch
+sklearn.model_selection
+ultralytics
+albumentations
+cv2
